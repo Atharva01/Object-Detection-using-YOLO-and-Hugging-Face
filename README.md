@@ -24,7 +24,7 @@ This project implements **real-time object detection** using **YOLOS (You Only L
 ---
 
 ## 🎯 **Installation & Setup**
-### **1️⃣ Clone the Repository**
+
 ```bash
 git clone https://github.com/yourusername/object-detection-yolos.git \
 cd object-detection-yolos \
