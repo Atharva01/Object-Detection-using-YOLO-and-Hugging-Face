@@ -1,4 +1,4 @@
-# 🚀 Object Detection with YOLO and Hugging Face 🤖
+# 🚀 Object Detection with YOLO and Hugging Face 🤗
 
 This project implements **real-time object detection** using **YOLOS (You Only Look One-Series)**, a transformer-based model available via **Hugging Face**. The app is built with **Streamlit**, allowing users to upload images and detect objects using a pre-trained YOLOS model.
 
