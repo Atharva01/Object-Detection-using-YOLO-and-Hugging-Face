@@ -14,7 +14,7 @@ This project implements **real-time object detection** using **YOLOS (You Only L
 ---
 
 ## 📌 **Tech Stack**
-- **Python** (https://emoji.gg/emoji/1887_python#)
+- **Python** ![Python](https://emoji.gg/emoji/1887_python#)
 - **Hugging Face Transformers** 🤗  
 - **YOLOS (You Only Look One-Series)** 🖼️  
 - **Streamlit (UI Framework)** 🎨  
