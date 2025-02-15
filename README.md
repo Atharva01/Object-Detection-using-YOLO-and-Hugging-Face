@@ -28,13 +28,13 @@ This project implements **real-time object detection** using **YOLOS (You Only L
 ```bash
 git clone https://github.com/Atharva01/Object-Detection-using-YOLO-and-Hugging-Face.git \
 ```
-### **Create a virtual environment
-### 1. Windows 
+### **Create a virtual environment**
+#### 1. Windows 
 ```bash
 python -m venv yolos
 \yolos\bin\activate.bat
 ```
-### 2. Linux (please ensure virtualenv is installed)
+#### 2. Linux (please ensure virtualenv is installed)
 
 ```bash
 python3 -m venv yolos
