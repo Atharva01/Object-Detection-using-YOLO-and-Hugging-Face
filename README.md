@@ -24,11 +24,31 @@ This project implements **real-time object detection** using **YOLOS (You Only L
 ---
 
 ## 🎯 **Installation & Setup**
+### **Clone the repo**
+```bash
+git clone https://github.com/Atharva01/Object-Detection-using-YOLO-and-Hugging-Face.git \
+```
+### **Create a virtual environment
+### 1. Windows 
+```bash
+python -m venv yolos
+\yolos\bin\activate.bat
+```
+### 2. Linux (please ensure virtualenv is installed)
 
 ```bash
-git clone https://github.com/yourusername/object-detection-yolos.git \
-cd object-detection-yolos \
-python3 -m venv yolos \
-pip3 install -r requirements.txt \
+python3 -m venv yolos
+source yolos/bin/activate
+```
+
+### **Install the dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+### **Launch the StreamLit UI**
+```bash
 streamlit run app.py
 ```
+
+
