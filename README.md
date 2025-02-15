@@ -1,27 +1,28 @@
 # 🚀 Object Detection with YOLO and Hugging Face 🤗
 
-This project implements **real-time object detection** using **YOLOS (You Only Look One-Series)**, a transformer-based model available via **Hugging Face**. The app is built with **Streamlit**, allowing users to upload images and detect objects using a pre-trained YOLOS model.
+🖼️ **Real-time object detection** using **YOLOS (You Only Look One-Series)**, a transformer-based model available via **Hugging Face**. This **Streamlit-powered app** lets you **upload images** and detect objects using a pre-trained YOLOS model.  
 
 ---
 
 ## 🔥 **Features**
-✅ Upload an image and detect multiple objects  
-✅ Uses **YOLOS-Tiny** from Hugging Face for inference  
-✅ **Bounding boxes & labels** drawn on detected objects  
-✅ Displays **detection summary** with object labels and confidence scores  
-✅ Streamlit-powered **web interface** for easy use  
+✅ 📸 Upload an image and detect multiple objects  
+✅ 🏷️ Uses **YOLOS-Tiny** from Hugging Face for inference  
+✅ 🎯 **Bounding boxes & labels** drawn on detected objects  
+✅ 📊 Displays **detection summary** with object labels and confidence scores  
+✅ 🖥️ Streamlit-powered **web interface** for easy use  
 
 ---
 
 ## 📌 **Tech Stack**
-- **Python** ![Python](python_18894.ico)
-- **Hugging Face Transformers** 🤗  
-- **YOLOS (You Only Look One-Series)** 🖼️  
-- **Streamlit (UI Framework)** 🎨  
-- **PIL (Image Processing)** 🖼️  
-- **PyTorch (Deep Learning Framework)** 🔥  
+- 🐍 **Python** ![Python](python_18894.ico)  
+- 🤗 **Hugging Face Transformers**  
+- 🖼️ **YOLOS (You Only Look One-Series)**  
+- 🎨 **Streamlit (UI Framework)**  
+- 🏞️ **PIL (Image Processing)**  
+- 🔥 **PyTorch (Deep Learning Framework)**  
 
 ---
+
 
 ## 🎯 **Installation & Setup**
 ### **Clone the repo**
