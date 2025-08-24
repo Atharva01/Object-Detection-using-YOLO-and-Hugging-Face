@@ -28,7 +28,7 @@ class ObjectDetector:
         for score, label, box in zip(results["scores"], results["labels"], results["boxes"]):
             box = [round(i, 2) for i in box.tolist()]
             draw.rectangle(box, outline="blue", width=1)
-            draw.text((box[0], box[1]), f"{self.model.config.id2label[label.item()]}: {
+            draw.text(box[0], box[1]), f"{self.model.config.id2label[label.item()]}: {
                       round(score.item(), 3)}", fill="red")
 
         return image
